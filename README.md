@@ -1,7 +1,5 @@
-## Hi there 👋 I'm  DheerajSree<
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hey there, I'm  DheerajSree</h1>
 
-<!--
-**dheeraj24797/dheeraj24797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving, providing insights into business decisions, and exploring new technologies.
