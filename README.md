@@ -1,4 +1,4 @@
-<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hey there, I'm  DheerajSree</h1>
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> Hey there, I'm  Dheeraj Sree</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
