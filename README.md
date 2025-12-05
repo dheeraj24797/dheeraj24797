@@ -11,8 +11,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | SQL | R | SAS 
-- 🛢 &nbsp;MySQL | MS SQL Server | Oracle SQL | PostgreSQL
-- 🔧 &nbsp;Microsoft Azure | PowerBI | Excel
+- 🛢 &nbsp; MySQL | MS SQL Server | Oracle SQL | PostgreSQL
+- 🔧 &nbsp;Databricks | Microsoft Azure | PowerBI | Excel
 
 ### 🤝🏻 &nbsp;Connect with Me
 
