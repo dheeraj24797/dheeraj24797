@@ -4,7 +4,7 @@
 
 - 💡 &nbsp;I'm a Data Science enthusiaist, I enjoy problem solving, providing insights into business decisions, and exploring new technologies.
 - 🎓 &nbsp;I graduated from University of Connecticut with a Masters in Business Analytics and Project Management, Data Science Concentration.
-- 🌱 &nbsp;Passionate about learning more in the fields of Data analytics, Business Intelligence, Data Science, and Machine Learning.
+- 🌱 &nbsp;Passionate about learning more in the fields of Gen AI, Agentic AI, and Machine Learning.
 - ✉️ &nbsp;You can email me at dheeraj.sree222@gmail.com for any discussions or opportunities!
 
 
